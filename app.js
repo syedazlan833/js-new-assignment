@@ -1,0 +1,16 @@
+a = "JhoneDoe";
+alert (a);
+b = "15 years old";
+alert (b);
+c = "Certified Mobile Application Development";
+alert (c);
+d = "Plzza\nPlzz\nPlz\nPl\nP";
+alert (d);
+e = "I am trying to learn from the Book “A smarter way to learn JavaScript”.";
+alert (e);
+f = "15 years old";
+alert (f);
+g = "You have visit site 14 times";
+alert (g);
+h = "";
+alert (h);
